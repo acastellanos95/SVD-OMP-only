@@ -1,0 +1,6 @@
+CPU: AMD Ryzen 3700x CPU  @ 3.6GHz
+Number of threads: 16
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 20, width: 20
+SVD OMP time with U,V calculation: 0.000780903
+||A-USVt||_F: 4.40457e-13

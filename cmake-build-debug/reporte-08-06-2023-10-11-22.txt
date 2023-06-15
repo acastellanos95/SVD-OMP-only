@@ -1,0 +1,402 @@
+CPU: AMD Ryzen 3700x CPU  @ 3.6GHz
+Number of threads: 16
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.141223
+||A-USVt||_F: 1.08945e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.141974
+||A-USVt||_F: 1.38421e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.142033
+||A-USVt||_F: 8.93023e-12
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.141689
+||A-USVt||_F: 7.9044e-12
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.138203
+||A-USVt||_F: 7.76083e-12
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.160597
+||A-USVt||_F: 8.089e-12
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.142439
+||A-USVt||_F: 8.77322e-12
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.138645
+||A-USVt||_F: 7.90367e-12
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.146541
+||A-USVt||_F: 5.79643e-12
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 1000, width: 1000
+SVD OMP time with U,V calculation: 0.136086
+||A-USVt||_F: 1.31373e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 10.9987
+||A-USVt||_F: 3.71364e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 11.8828
+||A-USVt||_F: 7.69214e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 11.0611
+||A-USVt||_F: 6.93441e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 10.9918
+||A-USVt||_F: 6.05344e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 11.0466
+||A-USVt||_F: 7.17399e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 10.9975
+||A-USVt||_F: 6.32329e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 11.0078
+||A-USVt||_F: 6.9658e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 10.9991
+||A-USVt||_F: 6.04505e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 11.0031
+||A-USVt||_F: 6.45768e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 2000, width: 2000
+SVD OMP time with U,V calculation: 11.0453
+||A-USVt||_F: 5.46831e-11
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 38.9808
+||A-USVt||_F: 1.84773e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 39.4448
+||A-USVt||_F: 1.6966e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 38.9758
+||A-USVt||_F: 1.42242e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 39.1294
+||A-USVt||_F: 1.66665e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 38.9766
+||A-USVt||_F: 1.8458e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 39.0273
+||A-USVt||_F: 1.62341e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 38.9728
+||A-USVt||_F: 1.85116e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 39.0679
+||A-USVt||_F: 1.83049e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 38.9983
+||A-USVt||_F: 1.76222e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 3000, width: 3000
+SVD OMP time with U,V calculation: 38.9606
+||A-USVt||_F: 1.62703e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 92.7319
+||A-USVt||_F: 3.61019e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 92.808
+||A-USVt||_F: 3.55177e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 92.8452
+||A-USVt||_F: 3.54229e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 92.8592
+||A-USVt||_F: 3.67795e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 92.8069
+||A-USVt||_F: 3.42025e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 92.8258
+||A-USVt||_F: 3.46577e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 93.0735
+||A-USVt||_F: 3.70377e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 92.7371
+||A-USVt||_F: 3.48786e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 92.7404
+||A-USVt||_F: 3.53219e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 4000, width: 4000
+SVD OMP time with U,V calculation: 93.5933
+||A-USVt||_F: 3.51743e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 181.731
+||A-USVt||_F: 5.8196e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 181.865
+||A-USVt||_F: 5.85116e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 181.799
+||A-USVt||_F: 5.92979e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 181.883
+||A-USVt||_F: 6.2446e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 182.455
+||A-USVt||_F: 6.00323e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 181.824
+||A-USVt||_F: 5.74731e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 182.52
+||A-USVt||_F: 6.09921e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 181.876
+||A-USVt||_F: 5.78732e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 181.847
+||A-USVt||_F: 5.5447e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 5000, width: 5000
+SVD OMP time with U,V calculation: 181.792
+||A-USVt||_F: 5.81861e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 313.918
+||A-USVt||_F: 8.80411e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 313.551
+||A-USVt||_F: 8.20539e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 314.352
+||A-USVt||_F: 9.12377e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 313.527
+||A-USVt||_F: 9.05182e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 313.587
+||A-USVt||_F: 8.93373e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 313.431
+||A-USVt||_F: 8.6089e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 313.555
+||A-USVt||_F: 9.09329e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 313.967
+||A-USVt||_F: 9.02269e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 314.034
+||A-USVt||_F: 8.94168e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 6000, width: 6000
+SVD OMP time with U,V calculation: 313.894
+||A-USVt||_F: 8.99638e-10
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 497.834
+||A-USVt||_F: 1.29087e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 496.235
+||A-USVt||_F: 1.24991e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 498.23
+||A-USVt||_F: 1.14667e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 497.722
+||A-USVt||_F: 1.24149e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 497.484
+||A-USVt||_F: 1.22781e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 497.546
+||A-USVt||_F: 1.26536e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 497.611
+||A-USVt||_F: 1.15236e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 498.173
+||A-USVt||_F: 1.25103e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 498.456
+||A-USVt||_F: 1.24378e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 7000, width: 7000
+SVD OMP time with U,V calculation: 498.317
+||A-USVt||_F: 1.27972e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 729.507
+||A-USVt||_F: 1.66789e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 737.362
+||A-USVt||_F: 1.66909e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 743.306
+||A-USVt||_F: 1.67187e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 737.193
+||A-USVt||_F: 1.68976e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 737.233
+||A-USVt||_F: 1.682e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 737.466
+||A-USVt||_F: 1.66427e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 737.074
+||A-USVt||_F: 1.66001e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 737.186
+||A-USVt||_F: 1.72758e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 737.61
+||A-USVt||_F: 1.64661e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 8000, width: 8000
+SVD OMP time with U,V calculation: 737.386
+||A-USVt||_F: 1.67136e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1031.11
+||A-USVt||_F: 2.15512e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1056.58
+||A-USVt||_F: 2.06884e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1032.37
+||A-USVt||_F: 2.10841e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1055.11
+||A-USVt||_F: 2.1399e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1034.14
+||A-USVt||_F: 2.10114e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1034.62
+||A-USVt||_F: 2.15171e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1034.44
+||A-USVt||_F: 2.13385e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1055.29
+||A-USVt||_F: 2.15931e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1055.76
+||A-USVt||_F: 2.17869e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 9000, width: 9000
+SVD OMP time with U,V calculation: 1055.93
+||A-USVt||_F: 2.13927e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1442.21
+||A-USVt||_F: 2.6648e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1450
+||A-USVt||_F: 2.57051e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1408.8
+||A-USVt||_F: 2.65123e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1442.57
+||A-USVt||_F: 2.64101e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1409.61
+||A-USVt||_F: 2.73645e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1408.77
+||A-USVt||_F: 2.62529e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1412.57
+||A-USVt||_F: 2.67561e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1444.41
+||A-USVt||_F: 2.69877e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1452.8
+||A-USVt||_F: 2.63949e-09
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1416.83
+||A-USVt||_F: 2.62374e-09
