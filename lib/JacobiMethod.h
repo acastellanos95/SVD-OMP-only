@@ -27,8 +27,6 @@ enum SVD_OPTIONS {
                   Matrix &A,
                   size_t lda,
                   Matrix &s,
-                  Matrix &U,
-                  size_t ldu,
                   Matrix &V,
                   size_t ldv);
 }

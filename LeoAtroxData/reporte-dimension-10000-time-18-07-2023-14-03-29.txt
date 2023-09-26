@@ -1,0 +1,5 @@
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1109.41
+||A-USVt||_F: 2.6253e-09
+Tiempo promedio: 1109.41

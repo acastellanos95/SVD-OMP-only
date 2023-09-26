@@ -1,0 +1,40 @@
+-- The C compiler identification is GNU 10.2.0
+-- The CXX compiler identification is GNU 10.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /lustre/spack/opt/spack/linux-centos8-broadwell/gcc-10.2.0/gcc-10.2.0-u6fkk3ymo2ct2pd7jk5e34og3upka5xz/bin/gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /lustre/spack/opt/spack/linux-centos8-broadwell/gcc-10.2.0/gcc-10.2.0-u6fkk3ymo2ct2pd7jk5e34og3upka5xz/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /lustre/home/andref/SVD-OMP-only/build
+Scanning dependencies of target SVD_OMP_only
+[ 25%] Building CXX object CMakeFiles/SVD_OMP_only.dir/main.cpp.o
+[ 50%] Building CXX object CMakeFiles/SVD_OMP_only.dir/lib/JacobiMethod.cpp.o
+[ 75%] Building CXX object CMakeFiles/SVD_OMP_only.dir/lib/Utils.cpp.o
+[100%] Linking CXX executable SVD_OMP_only
+[100%] Built target SVD_OMP_only
+Number of threads: 36
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 10000, width: 10000
+SVD OMP time with U,V calculation: 1109.41
+||A-USVt||_F: 2.6253e-09
+Tiempo promedio: 1109.41
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 20000, width: 20000
+SVD OMP time with U,V calculation: 3768.99
+||A-USVt||_F: 1.12039e-08
+Tiempo promedio: 3768.99
+-------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
+Dimensions, height: 30000, width: 30000
+SVD OMP time with U,V calculation: 12794.7
+||A-USVt||_F: 2.5751e-08
+Tiempo promedio: 12794.7

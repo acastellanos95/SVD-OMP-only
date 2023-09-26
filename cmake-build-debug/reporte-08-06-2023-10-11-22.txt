@@ -22,7 +22,7 @@ SVD OMP time with U,V calculation: 0.138203
 ||A-USVt||_F: 7.76083e-12
 -------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
 Dimensions, height: 1000, width: 1000
-SVD OMP time with U,V calculation: 0.160597
+SVD OMP time with U,V calculation: 0.160597 OMP Ryzen 3700x 3.6Ghz
 ||A-USVt||_F: 8.089e-12
 -------------------------------- Test 1 (Squared matrix SVD) OMP --------------------------------
 Dimensions, height: 1000, width: 1000
